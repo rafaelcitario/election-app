@@ -11,5 +11,5 @@ app.on("window-all-closed", () => {
 
 function createWindow() {
   const win = new BrowserWindow();
-  return win.loadFile("index.html");
+  return win.loadFile("./src/index.html");
 }
