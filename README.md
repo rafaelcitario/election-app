@@ -7,7 +7,7 @@ No entanto para implementar este estudo resolvi também aprender o báscio de co
 
 Até o seguinte momento esta aplicação apenas converte binário para descimal, mas futuramente quero implementar:
 
-- [ ] Interface interativa
+- [x] Interface interativa
 - [ ] Design Responsivo
 - [ ] Conversor Octal para Descimal
 - [ ] Conversor Hexadecimal para Descimal
